@@ -1,0 +1,1 @@
+session_secret='1&a2éz3"e4\'r5(t6§y7èu8!i9ço0àp)'
